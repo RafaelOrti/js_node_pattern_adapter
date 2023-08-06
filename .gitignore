@@ -1,0 +1,10 @@
+# Archivo .gitignore
+
+# Carpetas que no deben incluirse en el control de versiones
+node_modules/
+dist/
+coverage/
+
+# Archivos que no deben incluirse en el control de versiones
+.env
+dbConfig.json
